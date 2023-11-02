@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class ej2 {
+public class Ej2 {
 	public static void main(String[] args) {
 		int a, b, c;
 		Scanner sc = new Scanner(System.in);

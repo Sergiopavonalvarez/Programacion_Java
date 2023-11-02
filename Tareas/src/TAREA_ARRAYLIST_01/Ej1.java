@@ -8,7 +8,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class ej1 {
+public class Ej1 {
 
 	public static void main(String[] args) throws IOException {
 		System.out.println("Enter a sentence:");

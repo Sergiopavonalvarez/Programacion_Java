@@ -8,7 +8,7 @@ package TAREA_ARRAYLIST_01;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
-public class ej3 {
+public class Ej3 {
 	public static void main(String a[]) throws Exception {
 		double MaxTemp = Double.MIN_VALUE, MinTemp = Double.MAX_VALUE;
 		Scanner sc = new Scanner(System.in);

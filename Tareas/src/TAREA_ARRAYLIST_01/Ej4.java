@@ -6,7 +6,7 @@ import java.util.*;
  * @Autores: Quique Huerta, Oscar Sanchez-Tornero
  * Revisor: Sergio Pavon
  */
-public class dualEj4 {
+public class Ej4 {
 
 	public static void main(String a[]) throws Exception {
 		int[] arr = new int[8];
