@@ -13,10 +13,7 @@ public class ARRAYLIST_01 {
 		miColeccion.add("Map");
 
 		for (String i : miColeccion) {
-
 			System.out.println(i);
-
 		}
-
 	}
 }
